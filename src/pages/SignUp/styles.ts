@@ -33,7 +33,7 @@ export const BackToSignIn = styled.TouchableOpacity`
 `;
 
 export const BackToSignInText = styled.Text`
-  color: #000d1a;
+  color: #0099a6;
   font-size: 16px;
   margin-left: 16px;
 `;
